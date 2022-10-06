@@ -1,0 +1,26 @@
+body {
+  background: url("http://hawaiianbrians.com/wp-content/uploads/2014/08/hawaiian-brians-landing.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#topMenu {
+  margin-bottom: 20px;
+}
+.listformat {
+  margin:0px 15px 0px 15px;
+}
+.mt-auto {
+  background-color: grey;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+p {
+  color:white;
+}
+.icon {
+  color:white;
+  margin-top:0%;
+}
